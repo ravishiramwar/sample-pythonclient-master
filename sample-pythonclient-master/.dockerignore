@@ -1,0 +1,9 @@
+build
+node_modules
+Dockerfile
+.dockerignore
+.git
+.gitignore
+.cache
+venv/
+*.pyc
